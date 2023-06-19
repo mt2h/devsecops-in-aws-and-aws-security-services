@@ -173,9 +173,54 @@ artifacts:
 ![Create VPC Endpoint and update information AWS](./img/54.png)
 ![Create VPC Endpoint and update information AWS](./img/55.png)
 ![Create VPC Endpoint and update information AWS](./img/56.png)
+![Create VPC Endpoint and update information AWS](./img/57.png)
 
 ## Case Study: Java Project DevSecOps
 
 ![Java Project DevSecOps](./img/57.png)
 
 Repo: https://github.com/mt2h/aws-devsecops-endToEnd-pipeline
+
+## Security Services in AWS
+
+### AWS Security Hub Services
+
+![AWS Security Hub Services](./img/58.png)
+![AWS Security Hub Services](./img/59.png)
+![AWS Security Hub Services](./img/60.png)
+![AWS Security Hub Services](./img/61.png)
+![AWS Security Hub Services](./img/62.png)
+![AWS Security Hub Services](./img/63.png)
+![AWS Security Hub Services](./img/64.png)
+![AWS Security Hub Services](./img/65.png)
+![AWS Security Hub Services](./img/66.png)
+![AWS Security Hub Services](./img/67.png)
+![AWS Security Hub Services](./img/68.png)
+
+### Amazon Inspector
+
+![Amazon Inspector](./img/69.png)
+![Amazon Inspector](./img/70.png)
+![Amazon Inspector](./img/71.png)
+![Amazon Inspector](./img/72.png)
+![Amazon Inspector](./img/73.png)
+
+Steps to enable AWS Inspector for an EC2 instance:
+
+1) Create an EC2 instance and enable port http:80 in the security group
+2) SSM agent should be installed on EC2 instance 
+(Reference: https://docs.aws.amazon.com/inspector/v1/userguide/inspector_installing-uninstalling-agents.html#ami-with-agent)
+3) SSM agent should be running on EC2 instance
+
+![Amazon Inspector](./img/74.png)
+![Amazon Inspector](./img/75.png)
+![Amazon Inspector](./img/76.png)
+![Amazon Inspector](./img/77.png)
+![Amazon Inspector](./img/78.png)
+![Amazon Inspector](./img/79.png)
+![Amazon Inspector](./img/80.png)
+![Amazon Inspector](./img/81.png)
+![Amazon Inspector](./img/82.png)
+![Amazon Inspector](./img/83.png)
+![Amazon Inspector](./img/84.png)
+![Amazon Inspector](./img/85.png)
