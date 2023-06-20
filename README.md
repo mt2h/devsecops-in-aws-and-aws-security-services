@@ -224,3 +224,37 @@ Steps to enable AWS Inspector for an EC2 instance:
 ![Amazon Inspector](./img/83.png)
 ![Amazon Inspector](./img/84.png)
 ![Amazon Inspector](./img/85.png)
+
+### Amazon Detective
+
+![Amazon Detective](./img/86.png)
+![Amazon Detective](./img/87.png)
+![Amazon Detective](./img/88.png)
+![Amazon Detective](./img/89.png)
+![Amazon Detective](./img/90.png)
+
+### Amazon GuardDuty
+
+![Amazon Detective](./img/91.png)
+![Amazon Detective](./img/92.png)
+![Amazon Detective](./img/93.png)
+![Amazon Detective](./img/94.png)
+![Amazon Detective](./img/95.png)
+![Amazon Detective](./img/96.png)
+![Amazon Detective](./img/97.png)
+![Amazon Detective](./img/98.png)
+![Amazon Detective](./img/99.png)
+![Amazon Detective](./img/100.png)
+![Amazon Detective](./img/101.png)
+![Amazon Detective](./img/102.png)
+![Amazon Detective](./img/103.png)
+![Amazon Detective](./img/104.png)
+![Amazon Detective](./img/105.png)
+
+### Amazon IAM Analyzer and basic implementation
+
+![Amazon Detective](./img/106.png)
+![Amazon Detective](./img/107.png)
+![Amazon Detective](./img/108.png)
+![Amazon Detective](./img/109.png)
+![Amazon Detective](./img/110.png)
