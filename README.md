@@ -351,3 +351,65 @@ Una vez completada la auditoría, AWS Audit Manager genera informes detallados y
 ![AWS Audit Manager](./img/131.png)
 ![AWS Audit Manager](./img/132.png)
 ![AWS Audit Manager](./img/133.png)
+
+### Review result of all integrations performed with Security Hub
+
+![AWS Security Hub](./img/134.png)
+![AWS Security Hub](./img/135.png)
+![AWS Security Hub](./img/136.png)
+![AWS Security Hub](./img/137.png)
+
+### WAF
+
+WAF se refiere a Web Application Firewall (Firewall de Aplicaciones Web). Es un servicio de seguridad proporcionado por Amazon Web Services (AWS) que protege las aplicaciones web contra diversos tipos de ataques, como inyecciones de SQL, cross-site scripting (XSS) y ataques de fuerza bruta.
+
+WAF actúa como un escudo protector entre los usuarios de una aplicación web y el servidor que la aloja. Examina el tráfico de entrada y salida de la aplicación web y aplica reglas de seguridad predefinidas o personalizadas para filtrar y bloquear solicitudes maliciosas o sospechosas.
+
+Las características principales del servicio WAF de AWS son:
+
+1. Reglas de seguridad personalizables: Permite definir reglas específicas para proteger las aplicaciones web de amenazas conocidas y desconocidas.
+
+2. Protección contra ataques comunes: WAF puede detectar y bloquear ataques de OWASP Top 10, como inyecciones de SQL, XSS, ataques de inclusión de archivos y más.
+
+3. Fácil integración: Puede integrarse con otros servicios de AWS, como Amazon CloudFront y Application Load Balancer, para proteger las aplicaciones web que se ejecutan en esos servicios.
+
+4. Control granular: Proporciona un control detallado sobre qué tráfico permitir o bloquear según reglas personalizadas.
+
+5. Capacidad de monitoreo y registro: WAF permite el monitoreo en tiempo real y el registro detallado de las solicitudes y los resultados de las reglas aplicadas.
+
+Al utilizar WAF en AWS, las organizaciones pueden mejorar significativamente la seguridad de sus aplicaciones web, mitigando riesgos y protegiéndose contra amenazas comunes en el entorno en línea.
+
+![AWS WAF](./img/138.png)
+![AWS WAF](./img/139.png)
+![AWS WAF](./img/140.png)
+![AWS WAF](./img/141.png)
+![AWS WAF](./img/142.png)
+![AWS WAF](./img/143.png)
+![AWS WAF](./img/144.png)
+![AWS WAF](./img/145.png)
+![AWS WAF](./img/146.png)
+![AWS WAF](./img/147.png)
+![AWS WAF](./img/148.png)
+![AWS WAF](./img/149.png)
+![AWS WAF](./img/150.png)
+![AWS WAF](./img/151.png)
+![AWS WAF](./img/152.png)
+![AWS WAF](./img/153.png)
+![AWS WAF](./img/154.png)
+![AWS WAF](./img/155.png)
+![AWS WAF](./img/156.png)
+![AWS WAF](./img/157.png)
+
+### Create Regular Expression Pattern Set in AWS WAF and assing it to ACL
+
+![AWS WAF](./img/158.png)
+![AWS WAF](./img/159.png)
+![AWS WAF](./img/160.png)
+![AWS WAF](./img/161.png)
+![AWS WAF](./img/162.png)
+![AWS WAF](./img/163.png)
+![AWS WAF](./img/164.png)
+![AWS WAF](./img/165.png)
+![AWS WAF](./img/166.png)
+![AWS WAF](./img/167.png)
+![AWS WAF](./img/168.png)
