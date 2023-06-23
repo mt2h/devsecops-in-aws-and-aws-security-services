@@ -413,3 +413,47 @@ Al utilizar WAF en AWS, las organizaciones pueden mejorar significativamente la 
 ![AWS WAF](./img/166.png)
 ![AWS WAF](./img/167.png)
 ![AWS WAF](./img/168.png)
+
+## CSPM
+
+CSPM (Cloud Security Posture Management) es un conjunto de prácticas y herramientas para evaluar y gestionar la seguridad en entornos de nube. Su objetivo es identificar y remediar brechas de seguridad, mantener un estado seguro y cumplir con requisitos de seguridad en la nube. Se enfoca en la configuración de seguridad, detección de riesgos, cumplimiento normativo y supervisión continua. Se utilizan herramientas especializadas para escanear y monitorear entornos de nube, proporcionando informes detallados. El CSPM es esencial para mantener un entorno seguro y cumplir con requisitos de seguridad en constante cambio.
+
+![CSPM](./img/169.png)
+
+AQUA CSPM (Cloud Security Posture Management) es una solución de seguridad en la nube que permite a los usuarios monitorear y evaluar continuamente su postura de seguridad en la nube en tiempo real. AQUA CSPM utiliza una combinación de monitoreo de infraestructura, análisis de configuración y detección de amenazas para identificar y corregir riesgos de seguridad en la nube.
+
+La solución AQUA CSPM permite la evaluación y monitoreo de la seguridad de los recursos en la nube, incluyendo servicios de infraestructura como AWS, Azure y Google Cloud Platform, y también aplicaciones y servicios en la nube. AQUA CSPM es capaz de identificar vulnerabilidades y riesgos de seguridad en la nube, tales como permisos inadecuados, configuraciones incorrectas, accesos no autorizados, y otros riesgos relacionados con la configuración de la infraestructura en la nube.
+
+Además de identificar y monitorear riesgos de seguridad en la nube, AQUA CSPM proporciona recomendaciones y soluciones para corregir los problemas de seguridad detectados. La solución ofrece informes y análisis detallados de la postura de seguridad en la nube, y puede ser integrada con otros sistemas y herramientas de seguridad en la nube para una mayor eficacia.
+
+### Register to Trial Account in AQUA
+
+Enlaces:
+- https://www.aquasec.com/products/cspm/
+- https://www.aquasec.com/demo/
+
+![CSPM](./img/170.png)
+![CSPM](./img/171.png)
+![CSPM](./img/172.png)
+![CSPM](./img/173.png)
+![CSPM](./img/174.png)
+![CSPM](./img/175.png)
+![CSPM](./img/176.png)
+
+### Integrate AQUA with AWS Account
+
+![CSPM](./img/177.png)
+![CSPM](./img/178.png)
+![CSPM](./img/179.png)
+![CSPM](./img/180.png)
+![CSPM](./img/181.png)
+![CSPM](./img/182.png)
+![CSPM](./img/183.png)
+![CSPM](./img/184.png)
+![CSPM](./img/185.png)
+![CSPM](./img/186.png)
+![CSPM](./img/187.png)
+![CSPM](./img/188.png)
+![CSPM](./img/189.png)
+![CSPM](./img/190.png)
+![CSPM](./img/191.png)
