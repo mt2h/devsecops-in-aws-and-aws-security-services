@@ -457,3 +457,27 @@ Enlaces:
 ![CSPM](./img/189.png)
 ![CSPM](./img/190.png)
 ![CSPM](./img/191.png)
+
+## Terraform 
+
+Repo: https://github.com/mt2h/terraform-ec2-jenkins-aws-k8s-infra-creation
+Link: https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
+## UN IAC security scan with Bridgecrew
+
+![Bridgecrew](./img/192.png)
+![Bridgecrew](./img/193.png)
+![Bridgecrew](./img/194.png)
+![Bridgecrew](./img/195.png)
+![Bridgecrew](./img/196.png)
+![Bridgecrew](./img/197.png)
+![Bridgecrew](./img/198.png)
+![Bridgecrew](./img/199.png)
+![Bridgecrew](./img/200.png)
+![Bridgecrew](./img/201.png)
+![Bridgecrew](./img/202.png)
+![Bridgecrew](./img/203.png)
+![Bridgecrew](./img/204.png)
+![Bridgecrew](./img/205.png)
+![Bridgecrew](./img/206.png)
+![Bridgecrew](./img/207.png)
